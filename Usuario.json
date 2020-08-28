@@ -1,0 +1,12 @@
+{
+    "nombre" : "Juan",
+    "apellido" : "Benites",
+    "id" : 9688,
+    "direccion" : "avenida juares 3-69 zona 36",
+    "servicio" : {
+                    "nombre" : "cable recidencial",
+                    "id" : 399,
+                    "cuota" : 45
+                 },
+    "mes proximo de pgo" : " 08/2020"
+}
